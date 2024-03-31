@@ -6,10 +6,9 @@ This project is a simple blog page created using HTML and CSS.
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Preview](#preview)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -24,10 +23,6 @@ This project serves as a demonstration of creating a basic blog page layout usin
 - Responsive design
 - Clear and simple layout
 - Easy-to-understand HTML and CSS code
-
-## Preview
-
-Insert a screenshot or a GIF demonstrating the appearance and functionality of your blog page here.
 
 ## Getting Started
 
