@@ -1,6 +1,3 @@
-Below is a simple README template for a project named "Simple Blog Page using HTML and CSS":
-
-```markdown
 # Simple Blog Page using HTML and CSS
 
 This project is a simple blog page created using HTML and CSS.
